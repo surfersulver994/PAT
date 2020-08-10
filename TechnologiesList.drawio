@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2020-08-10T12:35:03.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="cy52ShO72RG1lueBBKZg" version="13.6.2" type="github"><diagram id="kadHFnLxjQ3yYRlNPp_8" name="Page-1">7Zzvd5o8FMf/Gs959sLn8Bv7kjLXuVVtwa7b3iEEZEPiAlb7/PVPIgEBpW6n1HBm2lOl9yYhXj5fSHLBnmwutzfIWS3G0ANRTxK8bU9+35MkURR1/EYsz9QiiEpmCVDoUdveYIf/gbwgta5DDySVgimEURquqkYXxjFw04rNQQhuqsV8GFX3unICcGCwXSc6tD6GXrrIrANV2Ns/gjBY5HsWBepZOnlhakgWjgc3JZM87MkmgjDNtpZbE0QkenlcsnofGrxFxxCI09+pECerzVpfByMYfX78tel/g896n1QgzTw50Zp+4p6kRbjB62TlxKTb6TONhfZrTfp67cM47fvOMozwQTVIUMMtWMIfYU8ye6QTmrNc4XK0OIJzmEISERjDujOrkjhx0k8ACv2dSdjtIdmxQNoXtdU2c6Rgm/adKAzizBMBP2tFmDvuzwDBdez1XRhBlPlRMP9HUrRsL+WNd7taWtELLSDv49BFMIG4TUmw72/JK0BPAOUhwcHNopIVp8e1CJC02z8g8Raxe7MIU2CvHJd4N1gf2LZIlxF1B5GTEDgFEuucDeLwwygys8+AG5WB6KlAJ4VSBH+CkudK02VHKzpSRoHSgfuOQ1YyUTRuAFyCFD3jItQrXVFMqVBzajd76MXctigBr1GbQ3UWFC3vUcQblMY/IVPmZO7J/HcynF0AhYqkdoxChVO4p9Cw75iDiDEceMoxEAfSXNZaAlHUunY6VDmIR0AUxl/MCzgv1nEsRpnseNRa4LGADIdLVnbBzQGtOXaFzWNVjlN7UK9EriQ0w5v7jvKbO08gLJQoFkogH1Bs25Z9ZnjxRy4hmv0cQu2r5PcA6hjGoB2etUOemQOtc6BfC/Sn+4eh9Q27+/jPtM8NN4uBgi5WSZZ15iAPOMivBdn4ZHy9QHgVhTm8V43weuHTUXaPA1E/onkrBC1CWHaASgqoDI1r6NYxbWr8ZX01AN0Ws9fT6cyeWcZdI7iFOQvCgXkX4XNS7vu+5LrHKPe0uaa+1Sma+VhDFvgp+rW4Y498ATM/tWsLEbLI2X39xG90qRM/tYrzYMCc5+YMGB9xnJjuGV8M27RGd80rwp0bcrAZWF8xp7w5m8YpPzEXfD99MelxoYjXBybsEW9O1bWD+N8wvGlLFJbxfWqdkMQcXY4a6id8SWYuh+aEIZdD65PRF9a6uRjYz1mbk5VcC21r4eNsfMvF0CiGIpXPTg3NmU6uhrbVcDua3HdUDV1ZEtKrAtGZJ6Hk5gwqF0jbAnkcXht3o45KhMUFQ+ra4OmtU7JcDaXFpuLGRnNqDTuqio5cOMRB7cLBXCr5lYtL5RxSmdw83BpdXYTqiEak2iqtwnxdSmnOH3ONtK6R7w/8KnLikaPag2/spx/KW2ekuUL2MflqjK3RhEvkRYnUU30qc4nw5Mb5JJI9FQ3QU+iChCvlT6YkA+a3mio89XE+pQwns9GMPP/ywTLGw8ep9bmjcunCDSNvmQjB/+6/WGPnK30/iTz8Hw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-10T12:35:54.564Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="upFURY5-7EUMrVQBM-YM" version="13.6.2" type="github">
+  <diagram id="kadHFnLxjQ3yYRlNPp_8" name="Page-1">
+    <mxGraphModel dx="782" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nspwu7ugIolKWqw-Yoy7-22" value="&lt;span style=&quot;font-family: fixemoji, &amp;quot;roboto mono&amp;quot;, sans-serif; font-size: 16px; text-align: left; background-color: rgb(246, 246, 246);&quot;&gt;Microsoft SQL Server&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="290" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nspwu7ugIolKWqw-Yoy7-23" value="&lt;span style=&quot;font-family: fixemoji, &amp;quot;roboto mono&amp;quot;, sans-serif; font-size: 16px; text-align: left; background-color: rgb(246, 246, 246);&quot;&gt;.NET&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="425" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nspwu7ugIolKWqw-Yoy7-24" value="&lt;span style=&quot;font-family: fixemoji, &amp;quot;roboto mono&amp;quot;, sans-serif; font-size: 16px; text-align: left; background-color: rgb(246, 246, 246);&quot;&gt;ASP.NET&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="160" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nspwu7ugIolKWqw-Yoy7-25" value="&lt;span style=&quot;font-family: fixemoji, &amp;quot;roboto mono&amp;quot;, sans-serif; font-size: 16px; text-align: left; background-color: rgb(246, 246, 246);&quot;&gt;ASP.NET MVC&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="160" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nspwu7ugIolKWqw-Yoy7-26" value="&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(246 , 246 , 246)&quot;&gt;SSRS&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fontColor=#333333;fillColor=#f5f5f5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="660" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nspwu7ugIolKWqw-Yoy7-27" value="&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(246 , 246 , 246)&quot;&gt;JQUERY - CSS&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="710" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nspwu7ugIolKWqw-Yoy7-28" value="&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(246 , 246 , 246)&quot;&gt;AJAX&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="710" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nspwu7ugIolKWqw-Yoy7-29" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font face=&quot;fixemoji, roboto mono, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px ; background-color: rgb(246 , 246 , 246)&quot;&gt;BOOTSTRAP&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="710" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nspwu7ugIolKWqw-Yoy7-30" value="&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(246 , 246 , 246)&quot;&gt;C#&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="560" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nspwu7ugIolKWqw-Yoy7-31" value="&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(246 , 246 , 246)&quot;&gt;SSIS&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fontColor=#333333;fillColor=#f5f5f5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="650" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nspwu7ugIolKWqw-Yoy7-32" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font face=&quot;fixemoji, roboto mono, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px ; background-color: rgb(246 , 246 , 246)&quot;&gt;JAVASCRIPT&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="710" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nspwu7ugIolKWqw-Yoy7-33" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font face=&quot;fixemoji, roboto mono, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px ; background-color: rgb(246 , 246 , 246)&quot;&gt;ADO.NET&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="560" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nspwu7ugIolKWqw-Yoy7-34" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(246 , 246 , 246)&quot;&gt;RAZOR&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="710" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nspwu7ugIolKWqw-Yoy7-35" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(246 , 246 , 246)&quot;&gt;CSS&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="710" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nspwu7ugIolKWqw-Yoy7-36" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(246 , 246 , 246)&quot;&gt;HTML&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="710" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nspwu7ugIolKWqw-Yoy7-37" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(246 , 246 , 246)&quot;&gt;LINQ&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fontColor=#333333;fillColor=#f5f5f5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="670" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nspwu7ugIolKWqw-Yoy7-38" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(246 , 246 , 246)&quot;&gt;WEBAPI&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="20" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nspwu7ugIolKWqw-Yoy7-39" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(246 , 246 , 246)&quot;&gt;ASP.NET CORE&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fontColor=#333333;fillColor=#f5f5f5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="180" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nspwu7ugIolKWqw-Yoy7-40" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(246 , 246 , 246)&quot;&gt;ANGULAR&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fontColor=#333333;fillColor=#f5f5f5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="260" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nspwu7ugIolKWqw-Yoy7-41" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(246 , 246 , 246)&quot;&gt;AZURE&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fontColor=#333333;fillColor=#f5f5f5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="490" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nspwu7ugIolKWqw-Yoy7-42" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(246 , 246 , 246)&quot;&gt;XAMRIN&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fontColor=#333333;fillColor=#f5f5f5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="460" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nspwu7ugIolKWqw-Yoy7-45" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(246 , 246 , 246)&quot;&gt;Microservices&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fontColor=#333333;fillColor=#f5f5f5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="180" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nspwu7ugIolKWqw-Yoy7-46" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(246 , 246 , 246)&quot;&gt;ENTITY FRAMEWORK&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="560" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
