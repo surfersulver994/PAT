@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-10T12:36:46.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="jERDFOoUk7Y4bhs-3r-O" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-10T12:36:52.766Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="9F9XSpEvMFTfgm6vMw9l" version="13.6.2" type="github">
   <diagram id="kadHFnLxjQ3yYRlNPp_8" name="Page-1">
     <mxGraphModel dx="1117" dy="1014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
           <mxGeometry x="40" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nspwu7ugIolKWqw-Yoy7-40" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(246 , 246 , 246)&quot;&gt;ANGULAR&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fontColor=#333333;fillColor=#f5f5f5;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="340" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nspwu7ugIolKWqw-Yoy7-41" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(246 , 246 , 246)&quot;&gt;AZURE&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fontColor=#333333;fillColor=#f5f5f5;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="40" y="880" width="120" height="60" as="geometry" />
