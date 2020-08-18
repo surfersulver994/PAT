@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-08-12T08:07:46.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="gEED1Hj7VHCOYtOOgDhx" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-18T12:56:41.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="0vM3EkQFsuUsHoDSigVU" version="13.6.2" type="github">
   <diagram id="kadHFnLxjQ3yYRlNPp_8" name="Page-1">
-    <mxGraphModel dx="1022" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1564" dy="1420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nspwu7ugIolKWqw-Yoy7-22" value="&lt;span style=&quot;font-family: fixemoji, &amp;quot;roboto mono&amp;quot;, sans-serif; font-size: 16px; text-align: left; background-color: rgb(246, 246, 246);&quot;&gt;Microsoft SQL Server&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="nspwu7ugIolKWqw-Yoy7-22" value="&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(246 , 246 , 246)&quot;&gt;MICROSOFT SQL SERVER&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="430" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nspwu7ugIolKWqw-Yoy7-23" value="&lt;span style=&quot;font-family: fixemoji, &amp;quot;roboto mono&amp;quot;, sans-serif; font-size: 16px; text-align: left; background-color: rgb(246, 246, 246);&quot;&gt;.NET&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -56,19 +56,19 @@
           <mxGeometry x="430" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nspwu7ugIolKWqw-Yoy7-39" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(246 , 246 , 246)&quot;&gt;ASP.NET CORE&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fontColor=#333333;fillColor=#f5f5f5;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="35" y="740" width="125" height="60" as="geometry" />
+          <mxGeometry x="170" y="570" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nspwu7ugIolKWqw-Yoy7-40" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(246 , 246 , 246)&quot;&gt;ANGULAR&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fontColor=#333333;fillColor=#f5f5f5;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="35" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="35" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nspwu7ugIolKWqw-Yoy7-41" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(246 , 246 , 246)&quot;&gt;AZURE&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fontColor=#333333;fillColor=#f5f5f5;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="360" y="940" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nspwu7ugIolKWqw-Yoy7-42" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(246 , 246 , 246)&quot;&gt;XAMRIN&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fontColor=#333333;fillColor=#f5f5f5;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="40" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nspwu7ugIolKWqw-Yoy7-45" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(246 , 246 , 246)&quot;&gt;Microservices&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fontColor=#333333;fillColor=#f5f5f5;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="200" y="940" width="120" height="60" as="geometry" />
+        <mxCell id="nspwu7ugIolKWqw-Yoy7-45" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(246 , 246 , 246)&quot;&gt;MICROSERVICES&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fontColor=#333333;fillColor=#f5f5f5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="310" y="570" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nspwu7ugIolKWqw-Yoy7-46" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(246 , 246 , 246)&quot;&gt;ENTITY FRAMEWORK&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="560" y="90" width="120" height="60" as="geometry" />
@@ -85,38 +85,41 @@
             <mxPoint x="840" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AROnAnEYId2wnBQMewPe-1" value="Interview Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="AROnAnEYId2wnBQMewPe-1" value="Interview Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="155" y="220" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AROnAnEYId2wnBQMewPe-2" value="Interview Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="AROnAnEYId2wnBQMewPe-2" value="Interview Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="140" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AROnAnEYId2wnBQMewPe-3" value="Interview Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="AROnAnEYId2wnBQMewPe-3" value="Interview Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="155" y="60" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AROnAnEYId2wnBQMewPe-4" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font face=&quot;fixemoji, roboto mono, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px ; background-color: rgb(246 , 246 , 246)&quot;&gt;SE Concepts&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="AROnAnEYId2wnBQMewPe-4" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font face=&quot;fixemoji, roboto mono, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px ; background-color: rgb(246 , 246 , 246)&quot;&gt;SE CONCEPTS&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="45" y="280" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="AROnAnEYId2wnBQMewPe-5" value="Interview Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="AROnAnEYId2wnBQMewPe-5" value="Interview Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="155" y="305" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AROnAnEYId2wnBQMewPe-7" value="Interview Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="AROnAnEYId2wnBQMewPe-7" value="Interview Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="390" y="110" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AROnAnEYId2wnBQMewPe-8" value="Interview Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="AROnAnEYId2wnBQMewPe-8" value="Interview Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="390" y="180" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AROnAnEYId2wnBQMewPe-10" value="Interview Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="AROnAnEYId2wnBQMewPe-10" value="Interview Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="650" y="110" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AROnAnEYId2wnBQMewPe-11" value="Interview Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="AROnAnEYId2wnBQMewPe-11" value="Interview Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="650" y="40" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AROnAnEYId2wnBQMewPe-12" value="Interview Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="AROnAnEYId2wnBQMewPe-12" value="Interview Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="660" y="460" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AROnAnEYId2wnBQMewPe-13" value="Interview Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="AROnAnEYId2wnBQMewPe-13" value="Interview Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="660" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3KVcgSwb3q66vuYElOsP-1" value="&lt;span style=&quot;font-family: &amp;#34;fixemoji&amp;#34; , &amp;#34;roboto mono&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(246 , 246 , 246)&quot;&gt;WCF&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fontColor=#333333;fillColor=#f5f5f5;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
