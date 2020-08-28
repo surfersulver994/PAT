@@ -1,17 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T16:47:21.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="qT9J1gnNoCbR2y-Rr8ul" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-28T15:11:25.036Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="uskskIoKnDUwaqyCoC4Y" version="13.6.5" type="github">
   <diagram id="0PCpyRoaQgQhWhD5Cck1" name="Page-1">
-    <mxGraphModel dx="920" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DeYrhA2dBiEa2ZF-KxFR-1" value="Playing Call Of Duty" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DeYrhA2dBiEa2ZF-KxFR-1" value="Playing Call Of Duty" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DeYrhA2dBiEa2ZF-KxFR-2" value="Preparing for tomorrows meeting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DeYrhA2dBiEa2ZF-KxFR-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DeYrhA2dBiEa2ZF-KxFR-5" value="Finishing Listening" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DeYrhA2dBiEa2ZF-KxFR-5" value="Finishing Listening" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rr_5rrMgb8wOz-tkIwF6-1" value="Group penguin chat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
